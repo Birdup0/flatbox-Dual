@@ -1,0 +1,7 @@
+08-17 23:08:04 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 172:Plugin executed on: 'win32'
+08-17 23:08:04 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 173:Plugin executed with python version: '3.9.14 (main, Feb 13 2023, 04:48:26) [MSC v.1934 64 bit (AMD64)]'
+08-17 23:08:04 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 174:KiCad build version: 7.0.1
+08-17 23:08:04 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 175:Plugin version: 2.0.8
+
+08-17 23:08:04 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 176:Frame repr: <wx._core.Frame object at 0x000001ABA1FDAD30>
+08-17 23:08:04 com_github_MitjaNemec_SaveRestoreLayout.action_save_restore_layout 183:Plugin failed to run as more or less then 1 footprint selected

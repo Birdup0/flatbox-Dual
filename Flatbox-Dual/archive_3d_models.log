@@ -1,0 +1,131 @@
+08-30 22:24:34 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 220:Plugin executed on: 'win32'
+08-30 22:24:34 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 221:Plugin executed with python version: '3.9.14 (main, Feb 13 2023, 04:48:26) [MSC v.1934 64 bit (AMD64)]'
+08-30 22:24:34 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 222:KiCad build version: 7.0.1
+08-30 22:24:34 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 223:Plugin version: 1.0.10
+
+08-30 22:24:34 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 228:Screen sizes: [wx.Size(1920, 1080)]
+08-30 22:24:34 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 235:Dialog size: wx.Size(213, 81)
+08-30 22:24:34 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 237:Char size: 20
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 24:Starting to archive 3D models
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW8
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 71:Can not find model defined with enviroment variable:
+${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW9
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 71:Can not find model defined with enviroment variable:
+${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW18
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 71:Can not find model defined with enviroment variable:
+${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW10
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 71:Can not find model defined with enviroment variable:
+${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW11
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 71:Can not find model defined with enviroment variable:
+${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW12
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 71:Can not find model defined with enviroment variable:
+${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW13
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 71:Can not find model defined with enviroment variable:
+${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW14
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 71:Can not find model defined with enviroment variable:
+${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW15
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 71:Can not find model defined with enviroment variable:
+${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW16
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 71:Can not find model defined with enviroment variable:
+${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW17
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 71:Can not find model defined with enviroment variable:
+${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H1
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H4
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H6
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H3
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW7
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 71:Can not find model defined with enviroment variable:
+${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H2
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW4
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW2
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW5
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW1
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW3
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW6
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KISYS3DMOD}/Button_Switch_THT.3dshapes/SW_PUSH_6mm_H5mm.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H7
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: H5
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: A1
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KIPRJMOD}/RP2040-Zero/RP2040_Zero.stp
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KIPRJMOD}/RP2040-Zero/RP2040_Zero.stp
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KIPRJMOD}/RP2040-Zero/RP2040_Zero.stp
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 45:Getting 3D models for footprint of: SW19
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 56:Trying to copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 71:Can not find model defined with enviroment variable:
+${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 132:Did not copy: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 136:Remapping: ${KICAD6_3RD_PARTY}/3dmodels/com_github_perigoso_keyswitch-kicad-library/3d-library.3dshapes/SW_Hotswap_Kailh_Choc_V1.wrl
+08-30 22:24:40 com_github_MitjaNemec_Archive3DModels.archive_3d_models 147:Did not succeed to copy 3D models!
+('SW8', '${KICAD6_3RD_PARTY}\\3dmodels\\com_github_perigoso_keyswitch-kicad-library\\3d-library.3dshapes\\SW_Hotswap_Kailh_Choc_V1.wrl')
+('SW9', '${KICAD6_3RD_PARTY}\\3dmodels\\com_github_perigoso_keyswitch-kicad-library\\3d-library.3dshapes\\SW_Hotswap_Kailh_Choc_V1.wrl')
+('SW18', '${KICAD6_3RD_PARTY}\\3dmodels\\com_github_perigoso_keyswitch-kicad-library\\3d-library.3dshapes\\SW_Hotswap_Kailh_Choc_V1.wrl')
+('SW10', '${KICAD6_3RD_PARTY}\\3dmodels\\com_github_perigoso_keyswitch-kicad-library\\3d-library.3dshapes\\SW_Hotswap_Kailh_Choc_V1.wrl')
+('SW11', '${KICAD6_3RD_PARTY}\\3dmodels\\com_github_perigoso_keyswitch-kicad-library\\3d-library.3dshapes\\SW_Hotswap_Kailh_Choc_V1.wrl')
+('SW12', '${KICAD6_3RD_PARTY}\\3dmodels\\com_github_perigoso_keyswitch-kicad-library\\3d-library.3dshapes\\SW_Hotswap_Kailh_Choc_V1.wrl')
+('SW13', '${KICAD6_3RD_PARTY}\\3dmodels\\com_github_perigoso_keyswitch-kicad-library\\3d-library.3dshapes\\SW_Hotswap_Kailh_Choc_V1.wrl')
+('SW14', '${KICAD6_3RD_PARTY}\\3dmodels\\com_github_perigoso_keyswitch-kicad-library\\3d-library.3dshapes\\SW_Hotswap_Kailh_Choc_V1.wrl')
+('SW15', '${KICAD6_3RD_PARTY}\\3dmodels\\com_github_perigoso_keyswitch-kicad-library\\3d-library.3dshapes\\SW_Hotswap_Kailh_Choc_V1.wrl')
+('SW16', '${KICAD6_3RD_PARTY}\\3dmodels\\com_github_perigoso_keyswitch-kicad-library\\3d-library.3dshapes\\SW_Hotswap_Kailh_Choc_V1.wrl')
+('SW17', '${KICAD6_3RD_PARTY}\\3dmodels\\com_github_perigoso_keyswitch-kicad-library\\3d-library.3dshapes\\SW_Hotswap_Kailh_Choc_V1.wrl')
+('SW7', '${KICAD6_3RD_PARTY}\\3dmodels\\com_github_perigoso_keyswitch-kicad-library\\3d-library.3dshapes\\SW_Hotswap_Kailh_Choc_V1.wrl')
+('A1', '${KIPRJMOD}\\RP2040-Zero\\RP2040_Zero.stp')
+('SW19', '${KICAD6_3RD_PARTY}\\3dmodels\\com_github_perigoso_keyswitch-kicad-library\\3d-library.3dshapes\\SW_Hotswap_Kailh_Choc_V1.wrl')

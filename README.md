@@ -1,5 +1,5 @@
 # Flatbox-Dual: Low profile hitbox-layout fightstick
-![Flatbox-Dual](https://github.com/Birdup0/flatbox-Dual/assets/141259641/aa2f7d43-78aa-4356-8388-af31ebcd459e)
+![Flatbox-Dual](https://github.com/Birdup0/flatbox-Dual/assets/141259641/f9887ad5-2fe9-430c-803c-35d2734bdb8e)
 
 
 
